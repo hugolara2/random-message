@@ -13,7 +13,7 @@
   ],
   "author": "Hugo Lara <hugo.alex200197@outlook.com>",
   "license": "MIT",
-  "bin":{
+  "bin": {
     "random-msg": "./bin/global.js"
   },
   "preferGlobal": true
