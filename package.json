@@ -12,5 +12,9 @@
     "npm"
   ],
   "author": "Hugo Lara <hugo.alex200197@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin":{
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
